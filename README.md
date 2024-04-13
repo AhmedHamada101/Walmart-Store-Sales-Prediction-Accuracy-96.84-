@@ -25,6 +25,7 @@ Thanksgiving: 26-Nov-10, 25-Nov-11, 23-Nov-12, 29-Nov-13\
 Christmas: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13
 
 - Dataset Link: [https://www.kaggle.com/datasets/yasserh/walmart-dataset]
+- Kaggle Notebook: [https://www.kaggle.com/code/ahmedmohammedhamada/walmart-store-sales-prediction-accuracy-96-84]
 
 
 
