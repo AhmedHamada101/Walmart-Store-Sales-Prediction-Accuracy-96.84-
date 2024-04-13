@@ -1,4 +1,4 @@
-# Walmart Store Sales Prediction (Accuracy 96.84%)
+# Walmart Store Sales Analysis and Prediction (With Accuracy 96.84%)
 
 <img src = 'image.png'>
 
